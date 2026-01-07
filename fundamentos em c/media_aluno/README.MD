@@ -23,7 +23,7 @@ Insira a nota da prova numero 3: 6.5
 Aluno aprovado
 
 
-## 🛠️ Compilação e execução
+##  Compilação e execução
 
 ```bash
 gcc media_aluno.c -o media_aluno
@@ -32,3 +32,4 @@ gcc media_aluno.c -o media_aluno
 📚 Observação
 
 Este exercício faz parte do meu estudo de fundamentos da linguagem C.
+
