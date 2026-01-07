@@ -29,7 +29,8 @@ Aluno aprovado
 gcc media_aluno.c -o media_aluno
 ./media_aluno
 
-📚 Observação
+  Observação
 
 Este exercício faz parte do meu estudo de fundamentos da linguagem C.
+
 
